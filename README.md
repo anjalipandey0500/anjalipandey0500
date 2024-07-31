@@ -1,8 +1,5 @@
 # Hi there, I'm ANJALI PANDEY 👋
 
-![LTIMindtree_](https://github.com/user-attachments/assets/026e1751-0154-4ba3-9528-80d5dd8ecbc1)
-
-
 Welcome to my GitHub profile! I'm a QA Engineer with experience in Manual and Automation Testing, specializing in Selenium, TOSCA,SQL and API testing.
 
 ## 📄 About Me
