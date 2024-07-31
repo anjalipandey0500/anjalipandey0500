@@ -1,10 +1,17 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm ANJALI PANDEY 👋
 
-Welcome to my GitHub profile! I'm a passionate QA Engineer with over 3 years of experience in Manual and Automation Testing. Here, you'll find some of the projects I've worked on, my skills, and a bit more about me.
+![LTIMindtree_](https://github.com/user-attachments/assets/026e1751-0154-4ba3-9528-80d5dd8ecbc1)
+
+Welcome to my GitHub profile! I'm a QA Engineer with experience in Manual and Automation Testing, specializing in Selenium, TOSCA,SQL and API testing.
 
 ## 📄 About Me
 
-Having Overall 3.1 years of experience in Manual and Automation Testing with tools like Selenium and TOSCA. Experience in mobile Testing for both iOS and Android platforms. I’m enthusiastic about leveraging my skills to contribute to better business decisions and improving product quality.
+Experienced QA Engineer with expertise in:
+- Manual and Automation Testing (Selenium, TOSCA)
+- Mobile Testing (iOS, Android)
+- API Testing (Postman)
+- Database Validation (SQL, SAP HANA)
+- Continuous Integration/Continuous Deployment (CI/CD)
 
 ## 🔧 Skills and Tools
 
@@ -17,45 +24,31 @@ Having Overall 3.1 years of experience in Manual and Automation Testing with too
 - **Build & CI Tools:** Maven, Jenkins
 - **Operating Systems:** Windows, Linux
 
-## 💼 Professional Experience
+## 📊 KPIs
 
-### Project #1: MXXXXXXXXXXXXXXXXXXXXXXXXXXX - IOP (Integrated Operation Platform)
-- **Client:** MXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- **Role:** Test Engineer
-- **Responsibilities:** Requirement gathering, Test Plan creation, Test Script development and execution, defect review meetings, client demos.
+- Reduced regression testing time by 30% through automation
+- Improved bug detection rate by 25% with comprehensive test coverage
+- Decreased production defects by 20% through rigorous testing processes
 
-### Project #2: HEC Migration (TOSCA)
-- **Client:** MXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- **Role:** Automation Engineer
-- **Responsibilities:** Requirement analysis, test scripting and execution for various modules, functional and regression testing, test summary reports.
+## 🛠️ Languages and Tools
 
-### Project #3: CXXXXXXXXXXXXXXXXXXXXXXXXXX
-- **Client:** MXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- **Role:** Test Engineer
-- **Responsibilities:** Test script writing and execution, peer reviews, scenario testing post-build release, execution reports, SIT proof documents.
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![TOSCA](https://img.shields.io/badge/-TOSCA-007ACC?logo=tosca&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-### Project #4: UXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
-- **Client:** MXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- **Role:** Test Engineer
-- **Responsibilities:** Test script writing and execution, peer reviews, scenario testing, SIT proof documents, vlookup in Excel for data validation.
 
-### Project #5: VXXXXXXXXXXXXXXXXXXXXXX
-- **Client:** VXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- **Role:** Test Engineer
-- **Responsibilities:** Test script writing and execution, scenario testing, execution reports, SIT proof documents for UAT release.
-
-## 🛠️ Featured Projects
-
-- [Project 1: Automated Testing with Selenium](https://github.com/yourusername/project1)
-  - Description: Implemented automated testing scripts using Selenium for a web application. Improved test coverage by 40%.
-  
-- [Project 2: Mobile Testing for iOS and Android](https://github.com/yourusername/project2)
-  - Description: Developed and executed test cases for mobile applications on iOS and Android platforms. Ensured compatibility across devices.
 
 ## 📫 Contact Me
 
 Feel free to reach out to me for any collaboration or queries:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/anjali-pandey-5750951a0
+- **Email:** anjalipandey0500@gmail.com.com
 
